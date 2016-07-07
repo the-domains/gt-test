@@ -1,0 +1,28 @@
+name: GT Test
+favicon: null
+layout_spectrum: 0.2638615977484733
+typography_spectrum: 0.5525566635187715
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5719879099633545
+  lightness: 0.8740249935071915
+  saturation: 0.7999320360831916
+  rhythmicContrast: 0.9198952298611403
+purpose: []
